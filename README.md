@@ -1,4 +1,4 @@
-# List apps installed on your Windows PC and update any that are outdated
+List apps installed on your Windows PC and update any that are outdated
 
 # Description
 Find outdated programs and automatically update them to the most recent version\
